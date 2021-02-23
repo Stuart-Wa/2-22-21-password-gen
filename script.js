@@ -18,8 +18,15 @@ var givenArray = [];
 
 
 //promps//
-
 var charAmount = prompt ("select a number of characters between 8-128");
+    
+    if(charAmount < 8) {
+        promp("Error, please select a number between 8 and 128");
+        return;
+    }
+    
+    
+    
 var numbers = confirm ("add numbers to your password?");
 var capitols = confirm ("add capitol letters to your password?");
 var lowercase =confirm ("add lowercase letters to your password?");
@@ -27,9 +34,6 @@ var specialChar = confirm ("add special characters to your password?");
 
 //array conditional statements//
 
-if(charAmount < 8){
-    prompt("Error, please select a number between 8 and 128");
-} else{
 
 if(numbers){
     computedArray = computedArray.concat(numbs);
@@ -43,7 +47,7 @@ if(lowercase) {
 if(capitols){
     computedArray = computedArray.concat(uppers);
 }
-}
+
 
 //adding a little RNG to the mix//
 
