@@ -15,7 +15,7 @@ var uppers = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q
 var computedArray = [];
 var givenArray = [];
 
-uppers [1];
+
 
 //promps//
 
