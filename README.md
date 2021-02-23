@@ -5,6 +5,9 @@ Simply answer the promps and recieve and completely random password. Options inc
 
 Hosted live at https://stuart-wa.github.io/2-22-21-password-gen/
 
+![alt text](https://imgur.com/yOiViyl)
+
+
 Enjoy!
 
 Stuart Walsh
