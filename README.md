@@ -5,7 +5,7 @@ Simply answer the promps and recieve and completely random password. Options inc
 
 Hosted live at https://stuart-wa.github.io/2-22-21-password-gen/
 
-![alt text](https://imgur.com/yOiViyl)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/kKmtUQQ" data-context="false" ><a href="//imgur.com/a/kKmtUQQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 Enjoy!
