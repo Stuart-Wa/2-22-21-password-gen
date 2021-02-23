@@ -46,9 +46,6 @@ if(lowercase) {
 }
 if(capitols){
     computedArray = computedArray.concat(uppers);
-} else{
-    promp("Error! you must select at least one option to recieve a passoword");
-    return;
 }
 
 
