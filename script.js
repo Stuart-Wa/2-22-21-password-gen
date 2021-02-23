@@ -21,7 +21,7 @@ var givenArray = [];
 var charAmount = prompt ("select a number of characters between 8-128");
     
     if(charAmount < 8) {
-        promp("Error, please select a number between 8 and 128");
+        prompt("Error, please select a number between 8 and 128");
         return;
     }
     
